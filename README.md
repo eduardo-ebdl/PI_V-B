@@ -16,6 +16,6 @@ A pesquisa foi conduzida a partir da observação e análise das principais rede
 A análise demonstrou que a presença da Igreja Católica nas mídias sociais é estratégica e cuidadosamente planejada, visando manter sua influência e alcançar públicos diversos, especialmente os mais jovens. O uso de linguagem acessível, recursos multimídia e temas atuais contribui para a construção de uma comunicação eficaz e relevante. A atuação digital do Vaticano e do Papa reforça não apenas valores religiosos, mas também um posicionamento institucional atento às transformações sociais e tecnológicas. Assim, conclui-se que a presença da Igreja Católica nas mídias sociais é um reflexo de sua capacidade de adaptação e continuidade na era digital.
 
 Desenvolvido por [Eduardo Batista de Lima](https://www.linkedin.com/in/eduardobdlima) e [Victor Castro Silva](https://www.linkedin.com/in/victorcsil)  
-Curso [Big Data e Inteligência Artificial](https://www.pucgoias.edu.br/cursos/graduacao/big-data-e-inteligencia-artificial-ead/) - Projeto Integrador II-A  
+Curso [Big Data e Inteligência Artificial](https://www.pucgoias.edu.br/cursos/graduacao/big-data-e-inteligencia-artificial-ead/) - Projeto Integrador V-B  
 [PUC Goiás - Pontifícia Universidade Católica de Goiás](https://www.pucgoias.edu.br/)  
-Abril de 2025
+Outubro de 2024
